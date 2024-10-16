@@ -1,4 +1,4 @@
-# Scores-Prediction-Dibimbing AI Machine Learning
+# Scores Prediction Dibimbing AI Machine Learning
 
 This repository contains the source code and notebook for a score prediction project, developed as part of the **Dibimbing training program**. The project demonstrates the process of building a machine learning model to predict final scores based on study hours from the provided dataset.
 
